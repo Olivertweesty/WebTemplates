@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 18 Jul 2019 17:27:30 at http://themexexpert.com/html/motonic/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themexexpert.com/html/motonic/ -O1 "G:\Mine\My Web Sites\Motonic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/pricing/img-1.png (from themexexpert.com/html/motonic/)
+17:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/team/img-4.jpg (from themexexpert.com/html/motonic/)
+17:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/blog/author.jpg (from themexexpert.com/html/motonic/)
+17:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/blog/img-3.jpg (from themexexpert.com/html/motonic/)
+17:30:17	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/gift/3.png (from themexexpert.com/html/motonic/)
+17:30:22	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/themify.ttf?-fvbane (from themexexpert.com/html/motonic/assets/css/themify-icons.css)
+17:30:24	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/fontawesome-webfont.woff2?v=4.6.3 (from themexexpert.com/html/motonic/assets/css/font-awesome.min.css)
+17:30:24	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/fontawesome-webfont.svg?v=4.6.3 (from themexexpert.com/html/motonic/assets/css/font-awesome.min.css)
+17:30:24	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/Flaticon.eot? (from themexexpert.com/html/motonic/assets/css/flaticon.css)
+17:30:24	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/Flaticon.svg (from themexexpert.com/html/motonic/assets/css/flaticon.css)
+17:30:26	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/assets/css/owl.video.play.png (from themexexpert.com/html/motonic/assets/css/owl.carousel.css)
+17:30:26	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/fancybox/fancybox_loading.gif (from themexexpert.com/html/motonic/assets/css/jquery.fancybox.css)
+17:30:27	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/assets/images/controls.png (from themexexpert.com/html/motonic/assets/css/jquery.bxslider.min.css)
+17:30:27	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/assets/css/images/controls.png (from themexexpert.com/html/motonic/assets/css/jquery.bxslider.min.css)
+17:30:27	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/assets/images/service-sidebar-widget-title-bg.png (from themexexpert.com/html/motonic/assets/css/style.css)
+17:30:27	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/assets/images/service-sidebar-widget-contact-bg.jpg (from themexexpert.com/html/motonic/assets/css/style.css)
+17:30:27	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/slider/hero-image-1.png (from themexexpert.com/html/motonic/assets/css/style.css)
+17:30:29	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/testimonial/2.jpg (from themexexpert.com/html/motonic/index-2.html)
+17:30:29	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/blog-details/author.jpg (from themexexpert.com/html/motonic/blog-details.html)
+17:30:29	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/0 (from themexexpert.com/html/motonic/blog-details.html)
+17:30:31	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/contact/img-2.png (from themexexpert.com/html/motonic/contact.html)
+17:30:31	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/Popover requires tooltip.js (from themexexpert.com/html/motonic/assets/js/bootstrap.min.js)
+17:30:32	Error: 	"Not Found" (404) at link themexexpert.com/hqdefault.jpg (from themexexpert.com/html/motonic/assets/js/jquery-plugin-collection.js)
+17:30:32	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/fontawesome-webfont.woff2?v=4.6.3 (from themexexpert.com/html/motonic/assets/css/font-awesome.min.css)
+17:30:32	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/fonts/fontawesome-webfont.svg?v=4.6.3 (from themexexpert.com/html/motonic/assets/css/font-awesome.min.css)
+17:30:42	Warning: 	Retry after error -4 (No data (connection closed)) at link themexexpert.com/html/motonic/assets/images/blog-details/author.jpg (from themexexpert.com/html/motonic/blog-details.html)
+17:30:42	Error: 	"Not Found" (404) at link themexexpert.com/html/motonic/0 (from themexexpert.com/html/motonic/blog-details.html)
+17:30:45	Error: 	"No data (connection closed)" (-4) after 2 retries at link themexexpert.com/html/motonic/assets/fonts/fontawesome-webfont.woff2?v=4.6.3 (from themexexpert.com/html/motonic/assets/css/font-awesome.min.css)
+17:30:46	Error: 	"No data (connection closed)" (-4) after 2 retries at link themexexpert.com/html/motonic/assets/images/blog-details/author.jpg (from themexexpert.com/html/motonic/blog-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 16 seconds : 145 links scanned, 115 files written (6219579 bytes overall) [4696481 bytes received at 23961 bytes/sec], 2156823 bytes transferred using HTTP compression in 48 files, ratio 24%, 3.9 requests per connection
+(10 errors, 19 warnings, 0 messages)

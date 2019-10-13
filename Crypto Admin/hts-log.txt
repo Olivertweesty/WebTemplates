@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 Aug 2019 08:08:17 at http://crypto-admin-templates.multipurposethemes.com/src/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://crypto-admin-templates.multipurposethemes.com/src/ -O1 "D:\WebTemplates\Crypto Admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/reports/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/reports/transactions.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/ico/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/ico/ico-distribution-countdown.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/currency-ex/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/currency-ex/exchange.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/members/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/members/members.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/tickers/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/tickers/tickers.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/transactions/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/transactions/tables-transactions.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/charts/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/charts/chartjs.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/amcharts/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/amcharts/amcharts.html)
+08:26:41	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/app/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/app/app-chat.html)
+08:26:43	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/mailbox/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/mailbox/mailbox.html)
+08:26:43	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/UI/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/UI/badges.html)
+08:26:43	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/content/utilities-color.html (from crypto-admin-templates.multipurposethemes.com/src/pages/UI/border-utilities.html)
+08:26:43	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/plugins/images/users/1.jpg (from crypto-admin-templates.multipurposethemes.com/src/pages/UI/cards.html)
+08:26:43	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/widgets/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/widgets/blog.html)
+08:26:56	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/layout/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/layout/boxed.html)
+08:26:56	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/box/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/box/advanced.html)
+08:26:56	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/ui/general.html (from crypto-admin-templates.multipurposethemes.com/src/pages/box/color.html)
+08:27:01	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/forms/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/forms/advanced.html)
+08:27:02	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/tables/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/tables/simple.html)
+08:27:03	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/map/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/map/map-google.html)
+08:27:03	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/extension/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/extension/fullscreen.html)
+08:27:03	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/samplepage/index.html (from crypto-admin-templates.multipurposethemes.com/src/pages/samplepage/blank.html)
+08:28:18	Error: 	"Not Found" (404) at link crypto-admin-templates.multipurposethemes.com/src/pages/samplepage/www.youtube.com/watch?v=sK7riqg2mr4 (from crypto-admin-templates.multipurposethemes.com/src/pages/samplepage/lightbox.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 51 seconds : 634 links scanned, 610 files written (46600485 bytes overall) [31049565 bytes received at 24819 bytes/sec], 21637302 bytes transferred using HTTP compression in 366 files, ratio 27%, 6.7 requests per connection
+(23 errors, 0 warnings, 0 messages)
